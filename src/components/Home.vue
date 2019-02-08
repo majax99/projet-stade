@@ -9,7 +9,7 @@
     		<img class="responsive_logo" src="	https://www.staderennais.com/sites/default/files/logo_0.png">
     	</a>
 
-       <v-spacer  class="spacer font-weight-bold responsive_titre">STADE DE L'EMPLOI 2019</v-spacer>
+       <v-spacer  class="spacer font-weight-bold responsive_titre">STADE DE L'EMPLOI 2020</v-spacer>
     </v-toolbar-title>
     
 
