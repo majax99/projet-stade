@@ -78,7 +78,7 @@
               <td class="text-xs-center hidden-sm-and-down  " >{{ props.item['Nombre de postes'] }}</td>
           </template>
               <template slot="pageText" slot-scope="props">
-          Lignes {{ props.pageStart }} - {{ props.pageStop }} de {{ props.itemsLength }}
+          Lignes {{ props.pageStart }} - {{ props.pageStop }} sur {{ props.itemsLength }}
         </template>
           <v-alert slot="no-results" :value="true" color="error" icon="warning">
             La recherche pour "{{ search }}" n'a pas donnée de résultats
@@ -119,6 +119,8 @@
         offres: json,
         offresSecteur: null,
         item: {},
+        page:6,
+        pages: 7
       }
     },
     mounted() {
