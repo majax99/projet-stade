@@ -1,0 +1,983 @@
+[
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "SERVEURS Prestations Traiteur (H/F)",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER Restaurant Ouvrier (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "Maître d'Hôtel en Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER Poste chaud (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "Pâtissier (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "Commis de Cuisine (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER Rest. Ouvrier/Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "PLONGEUR Polyvalent en Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER en Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "SECOND de CUISINE expérience en gastro",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CHEF de RANG en restaurant traditionnel",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "RUNNER en restaurant traditionnel",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 89
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Conducteur routier SPL",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Conducteur routier SPL",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Acheteur technique",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Technicien de maintenance",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Carrossier PL",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Responsable emballage groupe",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "PARITEL",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Commercial terrain BtoB (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 73
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "BTS MCO Vendeur",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "BTS MCO Vendeur",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "BAC Pro Commerce",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "BTS MCO Vendeur",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "BTS MCO Vendeur",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "BTS MCO Vendeur",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Hôtesse de Caisse",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Préparateur drive",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "LODIMA OUEST",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Employé Commercial",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 54
+  },
+  {
+    "Entreprise": "ACTIA TELECOM",
+    "Secteur d'activité": "Télécommunications spatiales",
+    "Poste à pourvoir": "Acheteur référent",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 76
+  },
+  {
+    "Entreprise": "ACTIA TELECOM",
+    "Secteur d'activité": "Télécommunications spatiales",
+    "Poste à pourvoir": "Chargé Affaires Contrôle Export",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 76
+  },
+  {
+    "Entreprise": "ACTIA TELECOM",
+    "Secteur d'activité": "Télécommunications spatiales",
+    "Poste à pourvoir": "Chargé ordonnancement",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 76
+  },
+  {
+    "Entreprise": "ACTIA TELECOM",
+    "Secteur d'activité": "Télécommunications spatiales",
+    "Poste à pourvoir": "Ingénieur R&D développement logiciel JAVA",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 76
+  },
+  {
+    "Entreprise": "ACTIA TELECOM",
+    "Secteur d'activité": "Télécommunications spatiales",
+    "Poste à pourvoir": "Chargé qualité",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 76
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Technicien système réseau",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Gestionnaire RH",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Superviseur Paie",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Responsable Supply Chain",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Contrôleur de gestion",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Chef comptable",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Trésorier",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Chef de projet informatique",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Chef de projet SAP",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Assistant Commerciaux",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Assistant Commerciaux Bilingues",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Commerciaux Sédentaires",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Commerciaux Sédentaires Bilignues",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Managers Commerciaux",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Assistant Marketing",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Category Manager",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "TALENT SELECTION (Univers NOZ)",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Chef de groupe",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 86
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Conseiller à distance",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Service publique",
+    "Poste à pourvoir": "Télésecrétaire, téléconseiller",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Ecole / Formation / Conseil",
+    "Poste à pourvoir": "Formateur /consultant",
+    "Contrat": "Stage",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Ecole / Formation / Conseil",
+    "Poste à pourvoir": "Formateur/consultant",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Hébergement et Infogérance d'applications critiques",
+    "Poste à pourvoir": "Chargé de clientèle",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "conseiller clientèle",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Recrutement",
+    "Poste à pourvoir": "téléprospecteur",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Conseiller à distance",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Télécommunications spatiales",
+    "Poste à pourvoir": "Conseiller à distance",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "chargé de clientèle",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Vente et réparation de véhicules industriels",
+    "Poste à pourvoir": "conseiller clientèle",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "ETHOS ACADEMY",
+    "Secteur d'activité": "Santé",
+    "Poste à pourvoir": "Télésecrétaire, téléconseiller",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "INHNI",
+    "Secteur d'activité": "Propreté et Services Associés",
+    "Poste à pourvoir": "CAP Agent de Propreté et d'Hygiène",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 30
+  },
+  {
+    "Entreprise": "INHNI",
+    "Secteur d'activité": "Propreté et Services Associés",
+    "Poste à pourvoir": "BAC PRO Hygiène Propreté et Stérilisation",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 30
+  },
+  {
+    "Entreprise": "INHNI",
+    "Secteur d'activité": "Propreté et Services Associés",
+    "Poste à pourvoir": "1 CAP Agent de Propreté et d'Hygiène",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 30
+  },
+  {
+    "Entreprise": "INHNI",
+    "Secteur d'activité": "Propreté et Services Associés",
+    "Poste à pourvoir": "BAC PRO Hygiène Propreté et Stérilisation",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 30
+  },
+  {
+    "Entreprise": "INHNI",
+    "Secteur d'activité": "Propreté et Services Associés",
+    "Poste à pourvoir": "TCNII Responsable Développement Hygiène, Propreté et Services",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 30
+  },
+  {
+    "Entreprise": "INHNI",
+    "Secteur d'activité": "Propreté et Services Associés",
+    "Poste à pourvoir": "1 CAP Agent de Propreté et d'Hygiène",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 30
+  },
+  {
+    "Entreprise": "INHNI",
+    "Secteur d'activité": "Propreté et Services Associés",
+    "Poste à pourvoir": "BAC PRO Hygiène, Propreté et Stérilisation",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 30
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "GARDIEN D'IMMEUBLES",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "OUVRIER DE MAINTENANCE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "CHARGE D'OPERATIONS",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "GESTIONNAIRE TECHNIQUE IMMOBILIER",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "GESTIONNAIRE TECHNIQUE IMMOBILIER",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "ASSISTANT ADMINISTRATIF",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "GESTIONNAIRE COMPTABLE LOCATIF",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "GESTIONNAIRE PAIE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "ARCHIPEL HABITAT",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "CONTROLEUR INTERNE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "TECHNICIEN DE MAINTENANCE",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CONTROLEUR QUALITE",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CONTROLEUR QUALITE",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CONTROLEUR QUALITE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "TECHNICIEN DE MAINTENANCE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "TECHNICIEN DE MAINTENANCE",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "MAGASINIER-CARISTE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "MAGASINIER-CARISTE",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CUISINIER",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "ANIMATEUR D'EQUIPE",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "ANIMATEUR D'EQUIPE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "ANIMATEUR D'EQUIPE",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "ANIMATEUR D'EQUIPE LOGISTIQUE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "ANIMATEUR D'EQUIPE LOGISTIQUE",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "OPERATEUR DE PRODUCTION",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "OPERATEUR DE PRODUCTION",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "OPERATEUR DE PRODUCTION",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "PREPARATEUR DE COMMANDES",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "PREPARATEUR DE COMMANDES",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "PREPARATEUR DE COMMANDES",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF DE PROJET R&D",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF DE SECTEUR GMS",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF DE SECTEUR GMS",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF DE SECTEUR GMS",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF DE SECTEUR GMS",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "COMMERCIAL RESEAU PROFESSIONNEL",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "OPERATEUR DE NETTOYAGE INDUSTRIEL",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "PREPARATEUR PATE",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "MIX BUFFET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "COORDINATEUR SECU-ENVIRONNEMENT",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 101
+  },
+  {
+    "Entreprise": "Printemps",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Conseiller de vente",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 87
+  },
+  {
+    "Entreprise": "Printemps",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Conseiller de vente",
+    "Contrat": "Stage",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 87
+  }
+]
