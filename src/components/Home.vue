@@ -1,5 +1,5 @@
 <template>
-  <div >
+  <div class="pb-5">
     <div >
       <v-toolbar dark color="#ca180b"  class="bandeau" >
         <v-spacer  >STADE DE L'EMPLOI 2019</v-spacer>  
@@ -16,7 +16,7 @@
       </v-toolbar>
     </div>
     <div class="typo_DIN">
-      <v-card class="mx-5 mt-5 mb-4" >
+      <v-card       :class="{'mx-0 mt-0': $vuetify.breakpoint.smAndDown, 'mx-5 mt-5': $vuetify.breakpoint.mdAndUp}" class="mb-4"  >
         <v-card-title>
           <h2 class="responsive_offres">Les offres de nos exposants</h2>
             <span id="offres" class="ml-2 responsive_offres">({{totalItems}} offre<span v-if = "totalItems > 1">s </span> <span v-else>&nbsp;</span>trouvée<span v-if = "totalItems > 1">s </span>)</span>
@@ -59,7 +59,7 @@
 
         <v-data-table   ref="dom-element" :headers="headers"  :items="filteredItems" :search="search"  :rows-per-page-items="[25,50,100]"   rows-per-page-text="Offres par page" class="elevation-1"   >
           <template slot="items" slot-scope="props" >
-              <td class="text-xs-center hidden-md-and-up px-0"  >
+              <td class="text-xs-center hidden-md-and-up px-0">
                 <v-menu offset-y >
                   <v-icon slot="activator" color="#ca180b" dark>control_point</v-icon>
                   <v-list three-line>
@@ -89,7 +89,7 @@
     </div>
       <v-footer class="pa-5 text-xs-center" color="#fafafa" >
       <v-flex  py-3  text-xs-center text-sm-right xs12 >
-        <span  style="color:rgb(0,163,224)" class="mr-2">réalisé par</span> <br>
+        <span  style="color:rgb(0,163,224)" class="mr-2">Réalisé par</span> <br>
         <a href="https://www.neo-soft.fr/" >
           <img src="../../public/neosoft.png" style="width:70px;height:83px;" class="mt-2 ">
         </a>
@@ -110,7 +110,7 @@
           { text: '', value: '' , align: 'center' , class: 'hidden-md-and-up', sortable:false, width:"1%" },
           { text: 'Stand', value: 'Numéro du stand' , align: 'center' , class: ' hidden-xs-only subheading ', sortable:true, width:"5%" },
           { text: 'Entreprise', value: 'Entreprise' , align: 'left', class: ' subheading ', sortable:true , width:"10%"},
-          { text: 'Intitulé du poste', value: 'Poste à pourvoir' , align: 'left' , class: ' subheading pr-3', sortable:true , width:"20%"},
+          { text: 'Intitulé du poste', value: 'Poste à pourvoir' , align: 'left' , class: ' subheading', sortable:true , width:"20%"},
           { text: 'Localisation', value: 'Localisation' , align: 'left' , class: ' subheading hidden-xs-only ', sortable:true , width:"15%"},
           { text: 'Type de contrat', value: 'Contrat' , align: 'left' , class: ' subheading hidden-sm-and-down', sortable:true , width:"5%"},
           { text: 'Nombre de postes', value: 'Nombre de postes' , align: 'center' , class: 'subheading hidden-sm-and-down', sortable:true , width:"5%"}
@@ -118,9 +118,7 @@
         ],
         offres: json,
         offresSecteur: null,
-        item: {},
-        page:6,
-        pages: 7
+        item: {}
       }
     },
     mounted() {
@@ -200,7 +198,7 @@
   }
 
 
-  @media screen and (max-width: 800px){
+  @media screen and (max-width: 960px){
   .responsive_logo {
     width:30px;
     top:8px;
@@ -251,6 +249,10 @@
   .arrow {
   font-size: 15px;
   }
+
+  table.v-table tbody tr td {
+    font-size:0.8em;
+  }  
 
 
 }
