@@ -38,7 +38,8 @@
               'Hâbitat / Bâtiment / Construction & TP',
               'Hébergement et Infogérance d\'applications critiques',
               'Immobilier',
-              'Maintenance Aeronotique',
+              'Industrie systèmes logistiques automatisés',
+              'Maintenance Aéronautique',
               'Média',
               'Propreté et Services Associés',
               'Protection sociale',
@@ -46,11 +47,12 @@
               'Réseau Electrique',
               'Restauration',
               'Santé',
-              'Service publique',
+              'Service public',
               'Services  aux entreprises',
               'Télécommunications spatiales',
               'Transport et Logistique',
-              'Vente et réparation de véhicules industriels'
+              'Vente et Réparation de Véhicules Industriels',
+              'AUTRES'
             ]"
               v-model="offresSecteur">
             </v-select>
@@ -82,6 +84,9 @@
         </template>
           <v-alert slot="no-results" :value="true" color="error" icon="warning">
             La recherche pour "{{ search }}" n'a pas donnée de résultats
+          </v-alert>
+          <v-alert slot="no-data" :value="true" color="error" icon="warning">
+            Aucun poste trouvé pour ce secteur.
           </v-alert>
         </v-data-table>
       </v-card>
@@ -237,7 +242,7 @@
   }
 
   .responsive_titre {
-    font-size:10px;
+    font-size:11px;
     width:100%;
     z-index:-1 ;
   }

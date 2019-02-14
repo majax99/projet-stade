@@ -1,174 +1,12 @@
 [
   {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "SERVEURS Prestations Traiteur (H/F)",
-    "Contrat": "CDD",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": "5 à 10",
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "CUISINIER Restaurant Ouvrier (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "Maître d'Hôtel en Traiteur (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "CUISINIER Poste chaud (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "Pâtissier (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "Commis de Cuisine (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Hors Bretagne",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "CUISINIER Rest. Ouvrier/Traiteur (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "PLONGEUR Polyvalent en Traiteur (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "CUISINIER en Traiteur (H/F)",
-    "Contrat": "CDI",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "SECOND de CUISINE expérience en gastro",
-    "Contrat": "CDI",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "CHEF de RANG en restaurant traditionnel",
-    "Contrat": "CDD",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": "1 à 5",
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "FOOD INTERIM",
-    "Secteur d'activité": "Restauration",
-    "Poste à pourvoir": "RUNNER en restaurant traditionnel",
-    "Contrat": "CDD",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": "1 à 5",
-    "Numéro du stand": 89
-  },
-  {
-    "Entreprise": "Lahaye Global Logistics",
-    "Secteur d'activité": "Transport et Logistique",
-    "Poste à pourvoir": "Conducteur routier SPL",
-    "Contrat": "CDI",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": "1 à 5",
-    "Numéro du stand": 27
-  },
-  {
-    "Entreprise": "Lahaye Global Logistics",
-    "Secteur d'activité": "Transport et Logistique",
-    "Poste à pourvoir": "Conducteur routier SPL",
-    "Contrat": "CDD",
-    "Localisation": "Ille-et-Vilaine",
-    "Nombre de postes": "1 à 5",
-    "Numéro du stand": 27
-  },
-  {
-    "Entreprise": "Lahaye Global Logistics",
-    "Secteur d'activité": "Transport et Logistique",
-    "Poste à pourvoir": "Acheteur technique",
-    "Contrat": "CDI",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
-    "Numéro du stand": 27
-  },
-  {
-    "Entreprise": "Lahaye Global Logistics",
-    "Secteur d'activité": "Transport et Logistique",
-    "Poste à pourvoir": "Technicien de maintenance",
-    "Contrat": "CDI",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
-    "Numéro du stand": 27
-  },
-  {
-    "Entreprise": "Lahaye Global Logistics",
-    "Secteur d'activité": "Transport et Logistique",
-    "Poste à pourvoir": "Carrossier PL",
-    "Contrat": "CDI",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
-    "Numéro du stand": 27
-  },
-  {
-    "Entreprise": "Lahaye Global Logistics",
-    "Secteur d'activité": "Transport et Logistique",
-    "Poste à pourvoir": "Responsable emballage groupe",
-    "Contrat": "CDI",
-    "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
-    "Numéro du stand": 27
-  },
-  {
     "Entreprise": "PARITEL",
     "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
     "Poste à pourvoir": "Commercial terrain BtoB (H/F)",
     "Contrat": "CDI",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "5 à 10",
-    "Numéro du stand": 73
+    "Numéro du stand": 71
   },
   {
     "Entreprise": "LODIMA OUEST",
@@ -248,7 +86,7 @@
     "Poste à pourvoir": "Employé Commercial",
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
-    "Nombre de postes": 1,
+    "Nombre de postes": "",
     "Numéro du stand": 54
   },
   {
@@ -456,16 +294,16 @@
     "Contrat": "Alternance",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
-    "Secteur d'activité": "Service publique",
+    "Secteur d'activité": "Service public",
     "Poste à pourvoir": "Télésecrétaire, téléconseiller",
     "Contrat": "Alternance",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -474,7 +312,7 @@
     "Contrat": "Stage",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "5 à 10",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -483,7 +321,7 @@
     "Contrat": "CDD",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -492,7 +330,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -501,7 +339,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -510,7 +348,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -519,7 +357,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "5 à 10",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -528,7 +366,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "5 à 10",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -537,7 +375,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "5 à 10",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -546,7 +384,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "5 à 10",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "ETHOS ACADEMY",
@@ -555,7 +393,7 @@
     "Contrat": "Alternance",
     "Localisation": "Bretagne",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 81
+    "Numéro du stand": 78
   },
   {
     "Entreprise": "INHNI",
@@ -564,7 +402,7 @@
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 30
+    "Numéro du stand": 32
   },
   {
     "Entreprise": "INHNI",
@@ -573,7 +411,7 @@
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 30
+    "Numéro du stand": 32
   },
   {
     "Entreprise": "INHNI",
@@ -582,7 +420,7 @@
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 30
+    "Numéro du stand": 32
   },
   {
     "Entreprise": "INHNI",
@@ -591,7 +429,7 @@
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 30
+    "Numéro du stand": 32
   },
   {
     "Entreprise": "INHNI",
@@ -600,7 +438,7 @@
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 30
+    "Numéro du stand": 32
   },
   {
     "Entreprise": "INHNI",
@@ -609,7 +447,7 @@
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 30
+    "Numéro du stand": 32
   },
   {
     "Entreprise": "INHNI",
@@ -618,7 +456,7 @@
     "Contrat": "Alternance",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 30
+    "Numéro du stand": 32
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -627,7 +465,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": "5 à 10",
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -636,7 +474,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -645,7 +483,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -654,7 +492,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -663,7 +501,7 @@
     "Contrat": "CDD",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -672,7 +510,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -681,7 +519,7 @@
     "Contrat": "CDD",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -690,7 +528,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "ARCHIPEL HABITAT",
@@ -699,7 +537,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 48
+    "Numéro du stand": 49
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -708,7 +546,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -717,7 +555,7 @@
     "Contrat": "CDD",
     "Localisation": "Bretagne",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -726,7 +564,7 @@
     "Contrat": "CDD",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -735,7 +573,7 @@
     "Contrat": "CDD",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -744,7 +582,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -753,7 +591,7 @@
     "Contrat": "CDI",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -762,7 +600,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -771,7 +609,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -780,7 +618,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -789,7 +627,7 @@
     "Contrat": "CDI",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -798,7 +636,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -807,7 +645,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -816,7 +654,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -825,7 +663,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -834,7 +672,7 @@
     "Contrat": "CDD",
     "Localisation": "Bretagne",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -843,7 +681,7 @@
     "Contrat": "CDD",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -852,7 +690,7 @@
     "Contrat": "CDD",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -861,7 +699,7 @@
     "Contrat": "CDD",
     "Localisation": "Bretagne",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -870,7 +708,7 @@
     "Contrat": "CDD",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -879,7 +717,7 @@
     "Contrat": "CDD",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": "10 et +",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -888,7 +726,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -897,7 +735,7 @@
     "Contrat": "CDI",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -906,7 +744,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -915,7 +753,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -924,7 +762,7 @@
     "Contrat": "CDI",
     "Localisation": "Hors Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -933,7 +771,7 @@
     "Contrat": "CDI",
     "Localisation": "Hors Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -942,7 +780,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -951,7 +789,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": 1,
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "MIX BUFFET",
@@ -960,7 +798,7 @@
     "Contrat": "CDI",
     "Localisation": "Bretagne",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 101
+    "Numéro du stand": 100
   },
   {
     "Entreprise": "Printemps",
@@ -969,7 +807,7 @@
     "Contrat": "CDI",
     "Localisation": "Rennes et Métropole",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 87
+    "Numéro du stand": 81
   },
   {
     "Entreprise": "Printemps",
@@ -978,6 +816,2175 @@
     "Contrat": "Stage",
     "Localisation": "Ille-et-Vilaine",
     "Nombre de postes": "1 à 5",
-    "Numéro du stand": 87
+    "Numéro du stand": 81
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "SERVEURS Prestations Traiteur (H/F)",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER Restaurant Ouvrier (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "Maître d'Hôtel en Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER Poste chaud (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "Pâtissier (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "Commis de Cuisine (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER Rest. Ouvrier/Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "PLONGEUR Polyvalent en Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CUISINIER en Traiteur (H/F)",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "SECOND de CUISINE expérience en gastro",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "CHEF de RANG en restaurant traditionnel",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "FOOD INTERIM",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "RUNNER en restaurant traditionnel",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 96
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Conducteur routier SPL",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Conducteur routier SPL",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Acheteur technique",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Technicien de maintenance",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Carrossier PL",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "Lahaye Global Logistics",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "Responsable emballage groupe",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 27
+  },
+  {
+    "Entreprise": "ALTICOME FORMATIONS",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 23
+  },
+  {
+    "Entreprise": "ALTICOME FORMATIONS",
+    "Secteur d'activité": "Concession automobile",
+    "Poste à pourvoir": "",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 23
+  },
+  {
+    "Entreprise": "ALTICOME FORMATIONS",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 23
+  },
+  {
+    "Entreprise": "ALTICOME FORMATIONS",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 23
+  },
+  {
+    "Entreprise": "ALTICOME FORMATIONS",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 23
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Comptable Analyste",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Consultant Juridique",
+    "Contrat": "CDD",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Directeur Marketing et Relation Clients",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Conseiller comptable en clientèle agricole",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Conseiller comptable en clientèle agricole",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Conseiller comptable en clientèle agricole",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Conseiller comptable en clientèle agricole",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Conseiller comptable en clientèle agricole",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "2 Collaborateur Comptable",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Collaborateur Comptable",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Chargé de développement commercial marché agricole",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Chargé de développement commercial",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Stagiaire en fiscalité des entreprises et des particuliers",
+    "Contrat": "Stage",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Stage \"Stage Ingénieur Environnement",
+    "Contrat": "Stage",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Stage développement offre bio groupe Cogedis",
+    "Contrat": "Stage",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Comptable en Agricole",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Assistant",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Stagiaire informatique",
+    "Contrat": "Stage",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Alternant Conseiller Comptable en clientèle Agricole",
+    "Contrat": "Alternant",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Stage Droit social / GRH",
+    "Contrat": "Stage",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Alternant Conseiller Comptable en clientèle Agricole",
+    "Contrat": "Alternant",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Collaborateur comptable",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Assistante de gestion - comptable",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "COGEDIS",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Assistante",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 55
+  },
+  {
+    "Entreprise": "AG2R LA MONDIALE",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Conseiller(e) Commercial-e",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 63
+  },
+  {
+    "Entreprise": "AG2R LA MONDIALE",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "conseiller€ Commercial-e",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 63
+  },
+  {
+    "Entreprise": "AG2R LA MONDIALE",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Assistant€ Commercial-e",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 63
+  },
+  {
+    "Entreprise": "AG2R LA MONDIALE",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Conseiller(e) Clientèle",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 63
+  },
+  {
+    "Entreprise": "AG2R LA MONDIALE",
+    "Secteur d'activité": "Protection sociale",
+    "Poste à pourvoir": "Délégué(e) Social-e",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 63
+  },
+  {
+    "Entreprise": "CARREFOUR MARKET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Directeur-trice de supermarché",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "",
+    "Numéro du stand": 75
+  },
+  {
+    "Entreprise": "CARREFOUR MARKET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Manager de rayon",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "",
+    "Numéro du stand": 75
+  },
+  {
+    "Entreprise": "CARREFOUR MARKET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Employé-e commercial-e rayon Fruits et Légumes",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 2,
+    "Numéro du stand": 75
+  },
+  {
+    "Entreprise": "CARREFOUR MARKET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Employé-e commercial-e DRIVE",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 75
+  },
+  {
+    "Entreprise": "CARREFOUR MARKET",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "Employé-e commercial-e rayon Charcuterie Traiteur coupe",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 75
+  },
+  {
+    "Entreprise": "CARREFOUR PROXIMITE",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF D'ENTREPRISE",
+    "Contrat": "",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 30,
+    "Numéro du stand": 75
+  },
+  {
+    "Entreprise": "CARREFOUR PROXIMITE",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF D'ENTREPRISE",
+    "Contrat": "",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 30,
+    "Numéro du stand": 75
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "COMPTABLE",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "COMPTABLE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "ASSISTANT COMMERCIAL BILINGUE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "ASSISTANT COMMERCIAL TRILINGUE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "ASSISTANT COMPTABLE POLYVALENT",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "TELEPROSPECTEUR",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "GESTIONNAIRE SINISTRES",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "GESTIONNAIRE DE PAIES",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "ASSISTANT LOGISTIQUE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "AGENT DE PRODUCTION",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "AGENT DE CONDITIONNEMENT",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "MANUTENTIONNAIRE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "CARISTE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "PREPARATEUR DE COMMANDES",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "MANŒUVRE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "PLOMBIER",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "ELECTRICIEN",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "PEINTRE BATIMENT",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "SOLIER",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "CARRELEUR",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "MENUISIER",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "PLAQUISTE",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "CONDUCTEUR D'ENGINS TP",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "INTERIM AVENUE",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "OUVRIER TP",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 93
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "PREPARATEUR DE COMMANDES CACES 1",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "EXPEDITEUR",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "AGENT DE QUAI",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "RESPONSABLE MAGASINIER",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "CARISTE CACES 3 OU 5",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "EQUIPIER DE COLLECTE / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "AGENT DE PRODUCTION AGROALIMENTAIRE / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "TECHNICIEN DE MAINTENANCE / INDUSTRIE",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "CONDUCTEUR DE MACHINES / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "OUVRIER ABATTOIR / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "OPERATEUR DE CONDITIONNEMENT / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "MONTEUR ASSEMBLEUR D ARMOIRES ELECTRIQUES / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "CABLEUR D ARMOIRES ELECTRIQUES / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "SOUDEUR / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "MECANICIEN AUTOMOBILE / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "USINEUR BOIS / INDUSTRIE",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "TECHNICIEN MAINTENANCE CHAUFFAGISTE",
+    "Contrat": "INTERIM",
+    "Localisation": "RENNES",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "PLOMBIER CONFIRME",
+    "Contrat": "INTERIM",
+    "Localisation": "RENNES",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "TECHNICIEN FRIGORISTE",
+    "Contrat": "INTERIM",
+    "Localisation": "RENNES",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "MENUISIER POSEUR OU ATELIER EN AGENCEMENT",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "MENUISIER POSEUR ALUMINIUM",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "ELECTRICIEN INDUSTRIEL",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "CONDUCTEUR DE TRAVAUX ELECTRICITE",
+    "Contrat": "CDI",
+    "Localisation": "RENNES",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "DESSINATEUR EN AGENCEMENT",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "RESPONSABLE D AFFAIRES",
+    "Contrat": "CDI",
+    "Localisation": "RENNES",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "CHEF DE CHANTIER EN ELECTRICITE",
+    "Contrat": "CDI",
+    "Localisation": "RENNES",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "TELECONSEILLER",
+    "Contrat": "INTERIM",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "TECHNICIEN HELP DESK",
+    "Contrat": "CDI",
+    "Localisation": "RENNES",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "COMPTABLE EXPERIMENTE",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "TECHNICO COMMERCIAL EN BATIMENT",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "CONSEILLER VENDEUR EN PIECES AUTO",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "PARTNAIRE RENNES",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "DIRECTEUR ADMINISTRATIF ET FINANCIER",
+    "Contrat": "CDI",
+    "Localisation": "Ille et Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 48
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "TECHNICIEN DE MAINTENANCE",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "CARISTE",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "CHARPENTIER",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "PLOMBIER",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "ELECTRICIEN",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "COFFREUR/BANCHEUR",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "MENUISIER POSEUR",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "CONDUCTEUR D'ENGINS (GRUE)",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "COUVREUR",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "MAGASINIER",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "AGENT DE MAINTENANCE",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "MANUTENTIONNAIRE",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "CONDUCTEURS D'INSTALLATIONS AUTOMATISEES",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "MAGASINIER ET RECEPTION DES MATIERES PREMIERES",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "AGENT DE FABRICATION",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "AGENT DE FABRICATION",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "AGENT DE CONDITIONNEMENT",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "OUVRIER DE PRODUCTION",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "PREPARATEUR DE COMMANDE",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "AGENT DE QUAI",
+    "Contrat": "",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "GO INTERIM",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "TECHNICIEN DE MAINTENANCE",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 18
+  },
+  {
+    "Entreprise": "CREDIT MUTUEL ARKEA",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Chargés de clientèle de particuliers",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 22
+  },
+  {
+    "Entreprise": "CREDIT MUTUEL ARKEA",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Chargés de clientèle de professionnels",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 22
+  },
+  {
+    "Entreprise": "CREDIT MUTUEL ARKEA",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Chargés de clientèle agricole",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 22
+  },
+  {
+    "Entreprise": "CREDIT MUTUEL ARKEA",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "conseillers bancaires",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 22
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "Comptable",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "Gestionnaire RH-Comptabilité",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "gestionnaire Marchés publics",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "Secrétaire de mairie, DGS",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "Agent de maintenance bâtiment",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "Agent espaces verts",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "Responsable bâtiment",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "CDG 35",
+    "Secteur d'activité": "Service public",
+    "Poste à pourvoir": "Technicien support informatique",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 56
+  },
+  {
+    "Entreprise": "Crédit Agricole d'Ille-et-Vilaine",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Conseiller Banque et Assurance",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 61
+  },
+  {
+    "Entreprise": "Crédit Agricole d'Ille-et-Vilaine",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "Conseiller en Gestion de Patrimoine",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 61
+  },
+  {
+    "Entreprise": "ARTIS INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Menuisier atelier alu",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Opérateur commande numérique",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Menuisier atelier bois",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Plombier chauffagiste",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Plaquiste",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INTERIM",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Conducteur de travaux menuiserie",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Maintenance Aéronautique",
+    "Poste à pourvoir": "MONTEUR/METTEUR AU POINT",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Réseau Electrique",
+    "Poste à pourvoir": "ELECTRICIEN",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "MAGASINIER",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "MONTEUR/MAGASINIER",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Réseau Electrique",
+    "Poste à pourvoir": "CABLEUR D'ARMOIRES",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "METALLIER",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "ELECTRICIEN INDUSTRIEL",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "METALLIER",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "CHAUDRONNIER",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Concession automobile",
+    "Poste à pourvoir": "MECANICIEN",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "ELECTRICIEN INDUSTRIEL",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Transport et Logistique",
+    "Poste à pourvoir": "MAGASINIER",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "DESSINATEUR SOLID EDGE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "DESSINATEUR SOLIDWORKS",
+    "Contrat": "CDD",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "ELECTRICIEN TERTAIRE",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "ELECTRICIEN BATIMENT",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "AUTOMATICIEN",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "DESSINATEUR SEE ELECTRICAL",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Concession automobile",
+    "Poste à pourvoir": "CARROSSIER PEINTRE",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Concession automobile",
+    "Poste à pourvoir": "MECANICIEN",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "SOUDEUR",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "TUYAUTEUR",
+    "Contrat": "CDD",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "POSEUR",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Réseau Electrique",
+    "Poste à pourvoir": "MAINTENANCE ELECTRONIQUE",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "CHEF DE CHANTIER",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "TOURNEUR/FRAISEUR",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "USINEUR",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Maintenance Aéronautique",
+    "Poste à pourvoir": "TECHNCIEN DE MAINTENANCE",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "OPERATEUR DE PRODUCTION",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "AUTRES",
+    "Poste à pourvoir": "PEINTRE INDUSTRIEL",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "MONTEUR CHARPENTE METALLIQUE",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "SOUDEUR SEMI AUTO",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Réseau Electrique",
+    "Poste à pourvoir": "CABLEUR MACHINES SPECIALES",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "DESSINATEUR CATIA V5",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS INDUSTRIE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "DESSINATEUR AUTOCAD",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "Assistant Ressources Humaines",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Gestionnaire Paie",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Comptable",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "Développeur Foncier",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Hâbitat / Bâtiment / Construction & TP",
+    "Poste à pourvoir": "Technicien Informatique",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "Assistant de Gestion",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Vente et réparation de véhicules industriels",
+    "Poste à pourvoir": "Assistant ADV",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Vente et réparation de véhicules industriels",
+    "Poste à pourvoir": "Deviseur",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "ARTIS TERTIAIRE",
+    "Secteur d'activité": "Immobilier",
+    "Poste à pourvoir": "Chargé de Gestion Locative",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 35
+  },
+  {
+    "Entreprise": "VOLVO TRUCKS",
+    "Secteur d'activité": "Vente et Réparation de Véhicules Industriels",
+    "Poste à pourvoir": "Technicien Poids Lourd",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "",
+    "Numéro du stand": 97
+  },
+  {
+    "Entreprise": "VOLVO TRUCKS",
+    "Secteur d'activité": "Vente et Réparation de Véhicules Industriels",
+    "Poste à pourvoir": "Technicien Poids Lourd",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "",
+    "Numéro du stand": 97
+  },
+  {
+    "Entreprise": "VOLVO TRUCKS",
+    "Secteur d'activité": "Vente et Réparation de Véhicules Industriels",
+    "Poste à pourvoir": "Technicien Poids Lourd",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "",
+    "Numéro du stand": 97
+  },
+  {
+    "Entreprise": "VOLVO TRUCKS",
+    "Secteur d'activité": "Vente et Réparation de Véhicules Industriels",
+    "Poste à pourvoir": "Carrossier",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "",
+    "Numéro du stand": 97
+  },
+  {
+    "Entreprise": "VOLVO TRUCKS",
+    "Secteur d'activité": "Vente et Réparation de Véhicules Industriels",
+    "Poste à pourvoir": "Carrossier",
+    "Contrat": "CDI",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "",
+    "Numéro du stand": 97
+  },
+  {
+    "Entreprise": "VOLVO TRUCKS",
+    "Secteur d'activité": "Vente et Réparation de Véhicules Industriels",
+    "Poste à pourvoir": "Magasinier",
+    "Contrat": "CDI",
+    "Localisation": "Hors Bretagne",
+    "Nombre de postes": "",
+    "Numéro du stand": 97
+  },
+  {
+    "Entreprise": "EPIDE",
+    "Secteur d'activité": "Ecole / Formation / Conseil",
+    "Poste à pourvoir": "Service civique aide à l'animation multimédia",
+    "Contrat": "",
+    "Localisation": "Bretagne",
+    "Nombre de postes": 1,
+    "Numéro du stand": 13
+  },
+  {
+    "Entreprise": "EPIDE",
+    "Secteur d'activité": "Ecole / Formation / Conseil",
+    "Poste à pourvoir": "Service civique aide à l'animation d'activités socioculturelles",
+    "Contrat": "",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 13
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "CONSEILLER (ERE) COMMERCIAL(E) EN PRODUITS D’ASSURANCES ET BANCAIRES (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "CONSEILLER (ERE) COMMERCIAL(E) EN PRODUITS D’ASSURANCES ET BANCAIRES (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "CONSEILLER (ERE) COMMERCIAL(E) EN PRODUITS D’ASSURANCES ET BANCAIRES (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "CONSEILLER (ERE) COMMERCIAL(E) EN ASSURANCES",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Banque / Assurances",
+    "Poste à pourvoir": "CONSEILLER (ERE) COMMERCIAL(E) EN BANQUE",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "VENDEURS (SES) POLYVALENTS EN GRANDE SURFACE ALIMENTAIRE  (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "VENDEURS (SES) CONSEIL EN TELEPHONIE  (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "VENDEURS (SES) CONSEIL EN PRÊT A PORTER (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "VENDEURS (SES) CONSEIL EN BRICOLAGE  (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Recrutement",
+    "Poste à pourvoir": "ASSISTANTS (ES) EN RESSOURCES HUMAINES (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Recrutement",
+    "Poste à pourvoir": "ASSISTANTS (ES) D'AGENCE EN TRAVAIL TEMPORAIRE (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Bretagne",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Recrutement",
+    "Poste à pourvoir": "ASSISTANT (E) FORMATION (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Restauration",
+    "Poste à pourvoir": "ASSISTANT (E) MANAGER EN RESTAURATION RAPIDE (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "ASSISTANT (E) COMMERCIAL (E) (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "CHARGE (E) MARKETING (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "CHARGE (E) DE DEVELOPPEMENT COMMERCIAL (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "CHARGE (E) DE PROJET DIGITAL (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "CHARGE (E) DE COMMUNICATION (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "CHEF DE SECTEUR (H/F)",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "VENDEUR (SE) CONSEIL EN ARTICLES DE SPORT",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "5 à 10",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "VENDEUR (SE) CONSEIL EQUIPEMENT DE LA MAISON",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "ESCCOT CFA & Ecole de Commerce",
+    "Secteur d'activité": "Commerce / Alimentation / Grande distribution",
+    "Poste à pourvoir": "VENDEUR (SE) CONSEIL EN PRODUITS HIGH TECH",
+    "Contrat": "Alternance",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 21
+  },
+  {
+    "Entreprise": "WITRON WIOSS",
+    "Secteur d'activité": "Industrie systèmes logistiques automatisés",
+    "Poste à pourvoir": "Opérateurs de production",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 103
+  },
+  {
+    "Entreprise": "WITRON WIOSS",
+    "Secteur d'activité": "Industrie systèmes logistiques automatisés",
+    "Poste à pourvoir": "Superviseurs de production",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 103
+  },
+  {
+    "Entreprise": "WITRON WIOSS",
+    "Secteur d'activité": "Industrie systèmes logistiques automatisés",
+    "Poste à pourvoir": "Superviseurs des flux logistique",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 103
+  },
+  {
+    "Entreprise": "WITRON WIOSS",
+    "Secteur d'activité": "Industrie systèmes logistiques automatisés",
+    "Poste à pourvoir": "Techniciens de maintenance",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": "10 et +",
+    "Numéro du stand": 103
+  },
+  {
+    "Entreprise": "WITRON WIOSS",
+    "Secteur d'activité": "Industrie systèmes logistiques automatisés",
+    "Poste à pourvoir": "Technicien informatique",
+    "Contrat": "CDI",
+    "Localisation": "Ille-et-Vilaine",
+    "Nombre de postes": 1,
+    "Numéro du stand": 103
+  },
+  {
+    "Entreprise": "ITGA",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Technicien de Laboratoire H/F",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 41
+  },
+  {
+    "Entreprise": "ITGA",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Analyste Microscopie Electronique H/F",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": "1 à 5",
+    "Numéro du stand": 41
+  },
+  {
+    "Entreprise": "ITGA",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Technicien de Prélèvements d'Air H/F",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 41
+  },
+  {
+    "Entreprise": "ITGA",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Chargé de Recouvrement H/F",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 41
+  },
+  {
+    "Entreprise": "ITGA",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Technicien Matériel H/F",
+    "Contrat": "CDD",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 41
+  },
+  {
+    "Entreprise": "ITGA",
+    "Secteur d'activité": "Services  aux entreprises",
+    "Poste à pourvoir": "Ingénieur d'Affaires - Digital H/F",
+    "Contrat": "CDI",
+    "Localisation": "Rennes et Métropole",
+    "Nombre de postes": 1,
+    "Numéro du stand": 41
   }
 ]
