@@ -38,6 +38,7 @@
               'Hâbitat / Bâtiment / Construction & TP',
               'Hébergement et Infogérance d\'applications critiques',
               'Immobilier',
+              'Industrie Agroalimentaire',
               'Industrie systèmes logistiques automatisés',
               'Maintenance Aéronautique',
               'Média',
@@ -142,11 +143,15 @@
     computed: {
       filteredItems() {
         return this.offres.filter((i) => {
-          if (this.offresSecteur === 'Tout secteurs d\'activités') {
-          this.offresSecteur = null;
-          }
           return !this.offresSecteur || (i['Secteur d\'activité'] === this.offresSecteur);
         })
+      }
+    },
+    watch: {
+      offresSecteur: function () {
+          if (this.offresSecteur === 'Tout secteurs d\'activités') {
+            this.offresSecteur = null;
+          }
       }
     },
     updated() {
