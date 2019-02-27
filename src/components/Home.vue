@@ -30,6 +30,7 @@
                 'Tout secteurs d\'activités',
               'Accompagnement à l\'emploi',
               'Agence d\'emploi',
+              'Agricole et Paysage',
               'Banque / Assurances',
               'Commerce / Alimentation / Grande distribution',
               'Concession automobile',
